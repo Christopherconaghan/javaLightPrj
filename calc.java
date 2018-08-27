@@ -15,7 +15,7 @@ public class calc
 
 		System.out.println("Enter a number");
 
-
+		System.out.println("Enter aditional code...");
 
 	}
 
